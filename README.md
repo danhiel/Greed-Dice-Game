@@ -15,7 +15,7 @@ the dices. This gives us a worst time complexity of O(n).
 
 ## My Assumptions
 
-- Assume that the dice is a 6-sided dice with the numbers from 1 to 6.
+- Assume that the dices used are 6-sided with the numbers from 1 to 6.
 - Assume that there is an equal probability for every side on the dice to be rolled.
 
 ## Different Solutions Contemplated
