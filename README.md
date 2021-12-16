@@ -6,7 +6,7 @@ scoring a single roll of five dice
 
 ## My Solution
 
-We can take the greedy approach and calculate the largest point as we iterate through the
+We can take the greedy approach and calculate the largest point as we iterate through
 the dices. This gives us a worst time complexity of O(n).
 
 ## My Questions
