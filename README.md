@@ -11,7 +11,8 @@ the dices. This gives us a worst time complexity of O(n) and space complexity of
 
 ## My Questions
 
-- What are the win conditions of the dice game?
+- Are we implementing the game with a 6-sided dice?
+- Does total score reset every time the user rolls the dice?
 
 ## My Assumptions
 
@@ -23,3 +24,4 @@ the dices. This gives us a worst time complexity of O(n) and space complexity of
 
 - Brute force O(2n): First loop calculate triples. Second loop calculates single ones and fives.
 - HashMapping O(2n): First loop stores the dices in the map. Then calculate score from map.
+- Divide n Conquer O(nlog(n)): Divides the dice array and calculate the score as we combine.
