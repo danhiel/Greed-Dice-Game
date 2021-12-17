@@ -1,0 +1,26 @@
+{
+  "name": "greed-dice-game",
+  "version": "1.0.0",
+  "description": "Greed is a press-your-luck dice rolling game. In the game, the player rolls the dice and tries to\r earn as many points as possible from the result. For the purposes of this kata, we will just be\r scoring a single roll of five dice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhiel/Greed-Dice-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhiel/Greed-Dice-Game/issues"
+  },
+  "homepage": "https://github.com/danhiel/Greed-Dice-Game#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}

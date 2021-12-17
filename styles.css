@@ -52,7 +52,7 @@ nav {
     padding-bottom: 5px;
 }
 
-nav, #roll, #points {
+nav, #roll {
     background-color: #282A35;
 }
 
@@ -86,6 +86,13 @@ a:hover, #roll:hover {
 #score {
     justify-content: space-around;
     padding-bottom: 25px;
+}
+
+#points {
+    color: #282A35;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-radius: 20%;
 }
 
 #roll, #points {
